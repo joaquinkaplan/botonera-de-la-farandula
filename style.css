@@ -1,0 +1,31 @@
+body {
+    background-color: #6f42c1;
+}
+
+.diva-container {
+    width: 100vw;
+    text-align: center;
+}
+
+
+.diva {
+    height: 160px;
+    width: 150px; 
+    border-radius: 50%;
+}
+
+.margin-moria {
+    margin-top: 1rem;
+}
+
+.text {
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.text-title {
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    width: 100vw;
+    text-align: center;;
+}
